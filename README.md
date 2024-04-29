@@ -1,4 +1,7 @@
 # Healthcare Analysis Project
+![1](https://github.com/DharshanR31/HealthCare_Analysis/assets/109989995/8e812c95-e6e5-42ed-8449-10fc75be3325)
+
+![2](https://github.com/DharshanR31/HealthCare_Analysis/assets/109989995/40793e50-2597-4a06-ac4f-da11f5bb6365)
 
 ## Introduction
 
